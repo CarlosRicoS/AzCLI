@@ -1,0 +1,5 @@
+name: az_learn_cli
+channels:
+  - defaults
+dependencies: 
+  - python

@@ -1,0 +1,8 @@
+{
+    "resource_group_name": "az-204-rg-test-cars",
+    "location": "eastus",
+    "app_service_plan_name": "az-204-service-plan-cars",
+    "app_service_name": "az-204-service-cars",
+    "service_tier": "F1",
+    "service_runtime": "NODE:16-lts"
+}
